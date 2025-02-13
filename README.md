@@ -1,2 +1,2 @@
 # C-short-scripts
-a number of simple codes in C that tackles introductory topics in programming
+simple codes in C that tackle introductory topics in programming
