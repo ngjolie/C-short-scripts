@@ -1,4 +1,4 @@
 #include <stdio.h>
 int main() {
- printf("Total funds: %lf\n", 25.0 +238.0 );
+ printf("Sum of 25 and 238: %lf\n", 25.0 +238.0 );
 }
